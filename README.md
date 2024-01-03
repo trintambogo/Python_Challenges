@@ -9,3 +9,4 @@ Takes in student grades, sorts them, drops the 2 lowest performing grades, and r
 
 ## Different types of lists program
 This program compares four types of lists: strings, floats, integers, and lists of lists. It details the data type, elements, and data type of the first element in each list. Additionally, it highlights differences in sorting lists numerically and alphabetically. 
+[Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/Different%20types%20of%20lists%20program.ipynb) 
