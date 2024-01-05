@@ -20,6 +20,7 @@ The entire script simulates a grocery shopping experience using Python. Here's a
 
 4. **Final Output:**
    - Prints the remaining items on the updated grocery list.
+   - [Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/GroceryListApp.ipynb)
      
 ## Different types of lists program
 This program compares four types of lists: strings, floats, integers, and lists of lists. It details the data type, elements, and data type of the first element in each list. Additionally, it highlights differences in sorting lists numerically and alphabetically. 
