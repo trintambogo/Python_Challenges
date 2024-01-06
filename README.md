@@ -1,6 +1,7 @@
 # Python_Code_Challenges
 ## Basketball Roster Program
-[Link]() 
+The program builds and displays a basketball roster based off user input. The program then stimulates an injury to a specific player in the roster and prompts the user to update the roster. Upon updating the roster, the program displays the final roster and wishes the newly added player good luck
+[Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/Basketball%20Roster%20Program.ipynb) 
 ## Grocery Sorter List 
 The entire script simulates a grocery shopping experience using Python. Here's a summary of its functionality:
 
