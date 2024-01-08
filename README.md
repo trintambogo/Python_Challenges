@@ -1,7 +1,7 @@
 # Python_Code_Challenges
 ## Favorite Teachers program
 The program makes a list of your favorite teachers. It shows three teachers, sorted in different ways, like alphabetical and reverse alphabetical order. It also displays the top two, next two, last favorite, and the total number of teachers on your list. You can add or remove teachers, and the program will show a summary each time.
-[Link]
+[Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/FavoriteTeachersProgram.ipynb) 
 
 ## Basketball Roster Program
 The program builds and displays a basketball roster based off user input. The program then stimulates an injury to a specific player in the roster and prompts the user to update the roster. Upon updating the roster, the program displays the final roster and wishes the newly added player good luck
