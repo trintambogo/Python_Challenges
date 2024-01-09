@@ -1,4 +1,10 @@
 # Python_Code_Challenges
+# FOR LOOPS
+## Binary and Hexadecimal Converter Program
+The program generates binary and hexadecimal values from 1 upto a specified user value.
+The program uses list slicing to show a portion of these values. It then loops through the entire list of decimal, binary and hexadecimal values to show the relationship between numbers of diferent bases.
+[Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/_Binary%20and%20Hexadecimal%20Converter.ipynb)
+
 # LISTS
 ## Favorite Teachers program
 The program makes a list of your favorite teachers. It shows three teachers, sorted in different ways, like alphabetical and reverse alphabetical order. It also displays the top two, next two, last favorite, and the total number of teachers on your list. You can add or remove teachers, and the program will show a summary each time.
