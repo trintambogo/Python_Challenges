@@ -1,5 +1,8 @@
 # Python_Code_Challenges
 # FOR LOOPS
+## Quadratic Equation Solver
+The program displays solutions to any number of quadratic equations.
+The program asks the user how many quadratic equations they would like to solve, ask for the coefficients of the equation in the standard form of ax^2 + bx + c = 0,solve for x and displays the solution.The program allows for both real and complex solutions.
 ## Binary and Hexadecimal Converter Program
 The program generates binary and hexadecimal values from 1 upto a specified user value.
 The program uses list slicing to show a portion of these values. It then loops through the entire list of decimal, binary and hexadecimal values to show the relationship between numbers of diferent bases.
