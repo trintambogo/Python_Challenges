@@ -1,5 +1,9 @@
 # Python_Code_Challenges
 # FOR LOOPS
+## Fibonnaci Calculator
+The program calculates the first n terms of the fibonnaci sequence and displays the terms.
+The program also calculates the ratios of consecutive Fibonacci numbers to prove that these ratios approach the irrational mathematical constant of Phi; 1.618…
+[Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/Fibonacci%20Calculator.ipynb)
 ## Factorial calculator
 The program calculates factorial for any given number. 
 It uses the math library to compute the value for a given factorial and its own algorithm to come up with the factorial.
