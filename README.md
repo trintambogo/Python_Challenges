@@ -1,5 +1,9 @@
 # Python_Code_Challenges
 # FOR LOOPS
+## Grade Point Average Calculator
+The program collects any number of grades from a user. It then sorts these grades numerically from highest to lowest and calculates the grade point average of the user. The program then asks the average the user desires and calculates what the user must hey in order to achieve this average. Lastly, the program will make a copy of the users grades and allow them to alter one of their previous grades to see how worse or better an assignment would have changed their overall grade.
+[Link]
+
 ## Fibonnaci Calculator
 The program calculates the first n terms of the fibonnaci sequence and displays the terms.
 The program also calculates the ratios of consecutive Fibonacci numbers to prove that these ratios approach the irrational mathematical constant of Phi; 1.618…
