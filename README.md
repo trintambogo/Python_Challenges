@@ -1,4 +1,9 @@
 # Python_Code_Challenges
+# CONDITIONALS
+## Shipping Accounts Program
+The program simulates logging into a business's shipping accounts software. Once logged in, the program displays the current costs of shipping x amount of items. Based on the number of items shipped, the cost to ship each item will vary.Once the cost to ship an item is set, the program will calculate the cost of shipping the entire order. Upon confirmation of the order, the program will place the order and prepare the shipment.
+[LINK](https://github.com/trintambogo/Python_Code_Challenges/blob/main/Shipping%20Accounts%20Program.ipynb)
+
 # FOR LOOPS
 ## Grade Point Average Calculator
 The program collects any number of grades from a user. It then sorts these grades numerically from highest to lowest and calculates the grade point average of the user. The program then asks the average the user desires and calculates what the user must hey in order to achieve this average. Lastly, the program will make a copy of the users grades and allow them to alter one of their previous grades to see how worse or better an assignment would have changed their overall grade.
