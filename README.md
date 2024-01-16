@@ -1,5 +1,9 @@
 # Python_Code_Challenges
 # CONDITIONALS
+## Coin Toss Program
+The program simulates flipping a coin n number of times.The program presents the user an option to see the result of each individual flip. It also informs the user any time the number of heads flipped is equal to the number of tails flipped. Upon completion of all flips, the program provides a summary table that shows the number and percentage of each flip.
+[Link]
+
 ## Shipping Accounts Program
 The program simulates logging into a business's shipping accounts software. Once logged in, the program displays the current costs of shipping x amount of items. Based on the number of items shipped, the cost to ship each item will vary.Once the cost to ship an item is set, the program will calculate the cost of shipping the entire order. Upon confirmation of the order, the program will place the order and prepare the shipment.
 [Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/Shipping%20Accounts%20Program.ipynb)
