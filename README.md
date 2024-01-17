@@ -2,7 +2,7 @@
 # CONDITIONALS
 ## Voter Registration Program
 The program simulates registering to vote. If a user is 18 or older, the program will present them with a list of potential political parties to register for. Upon choosing a party, the program will confirm that the user has registered and print a specific message depending on the party joined.
-[Link]
+[Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/Voter%20Registration%20Program.ipynb)
 
 ## Coin Toss Program
 The program simulates flipping a coin n number of times.The program presents the user an option to see the result of each individual flip. It also informs the user any time the number of heads flipped is equal to the number of tails flipped. Upon completion of all flips, the program provides a summary table that shows the number and percentage of each flip.
