@@ -1,5 +1,9 @@
 # Python_Code_Challenges
 # CONDITIONALS
+## Rock Paper Scissors Program
+The program simulates playing the classic game Rock, Paper, Scissors against computer AI. The program will ask the user how many rounds of the game they would like to play, simulate each round, keep score, and determine an overall winner. The program will also print the classic phrases such as “Paper covers rock” or “Scissors cut paper”.
+[Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/Rock%2C%20Paper%2C%20Scissors%20Program.ipynb)
+
 ## Guess my number program
 The program that will play the classic “Hi Low” game. The program will randomly pick a number between 1 and 20. Users will then guess the number. With each guess, the program will respond that the user’s guess is either too high or too low. When the user guesses correct, or after 5 guesses, the program will end the game and summarize the results.
 [Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/Guess%20my%20number%20app.ipynb)
