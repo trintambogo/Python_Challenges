@@ -1,4 +1,10 @@
 # Python_Code_Challenges
+# DICTIONARIES
+## Thesaurus Program
+This is a tool that provides a collection of words and their meanings.
+The program simulates a thesaurus. The program will present a user with a list of words that the thesaurus contains. Based on the users choice, the program will randomly present them with a synonym for their chosen word. Lastly, the program will displayall of the potential synonyms for each word in the thesaurus.
+[Link](https://github.com/trintambogo/Python_Code_Challenges/blob/main/Thesaurus%20program.ipynb)
+
 # CONDITIONALS
 ## Rock Paper Scissors Program
 The program simulates playing the classic game Rock, Paper, Scissors against computer AI. The program will ask the user how many rounds of the game they would like to play, simulate each round, keep score, and determine an overall winner. The program will also print the classic phrases such as “Paper covers rock” or “Scissors cut paper”.
