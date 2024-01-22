@@ -1,5 +1,9 @@
 # Python_Code_Challenges
 # DICTIONARIES
+## Database Admin Program
+The program that will simulate logging into a database and prompting a user to change their password. All usernames and passwords to the database will be stored in a dictionary. Upon entering the correct credentials, the program will prompt the user to enter a new password that is a minimum of eight characters long. If the new password meets the criteria, it will be accepted, otherwise the new password will be rejected. If the user who logged in is the admin, a list of all usernames and passwords will be displayed.
+[Link](https://github.com/trintambogo/Python_Challenges/blob/main/Database%20admin%20program.ipynb)
+
 ## Thesaurus Program
 This is a tool that provides a collection of words and their meanings.
 The program simulates a thesaurus. The program will present a user with a list of words that the thesaurus contains. Based on the users choice, the program will randomly present them with a synonym for their chosen word. Lastly, the program will displayall of the potential synonyms for each word in the thesaurus.
