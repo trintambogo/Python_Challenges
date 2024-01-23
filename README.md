@@ -1,5 +1,10 @@
 # Python_Code_Challenges
 # DICTIONARIES
+## Yes Or No Polling
+The program will conduct a poll on a yes or no issue. Upon starting the program a user will be prompted for an issue to vote on, the number of voters, and a password to view the poll results.The program will then conduct the poll. Each time a user votes, the program will ask for the voters full name to verify that they have not yet voted. If the voter has not yet voted, they will be presented with the issue and can vote yes or no. The vote will be recorded. Once the number of voters specified by the user has been reached, the poll
+will close and a summary will be displayed. If the user enters the correct password a result ofeach voters name and how they voted will be displayed.
+[Link](https://github.com/trintambogo/Python_Challenges/blob/main/Yes%20or%20No%20Polling%20.ipynb)
+
 ## Database Admin Program
 The program that will simulate logging into a database and prompting a user to change their password. All usernames and passwords to the database will be stored in a dictionary. Upon entering the correct credentials, the program will prompt the user to enter a new password that is a minimum of eight characters long. If the new password meets the criteria, it will be accepted, otherwise the new password will be rejected. If the user who logged in is the admin, a list of all usernames and passwords will be displayed.
 [Link](https://github.com/trintambogo/Python_Challenges/blob/main/Database%20admin%20program.ipynb)
