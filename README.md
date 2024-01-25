@@ -1,5 +1,10 @@
 # Python_Code_Challenges
 # DICTIONARIES
+## Frequency Analysis Program
+The program will analyse the letter distribution of a given text. It will take any text, remove all non-alpha characters, count the frequency of each letter within the text, calculate the percentage of occurrence for each letter, and create a list of
+letters ordered from highest occurrence to lowest occurrence. 
+[Link](https://github.com/trintambogo/Python_Challenges/blob/main/Frequency%20Analysis.ipynb)
+
 ## Yes Or No Polling
 The program will conduct a poll on a yes or no issue. Upon starting the program a user will be prompted for an issue to vote on, the number of voters, and a password to view the poll results.The program will then conduct the poll. Each time a user votes, the program will ask for the voters full name to verify that they have not yet voted. If the voter has not yet voted, they will be presented with the issue and can vote yes or no. The vote will be recorded. Once the number of voters specified by the user has been reached, the poll
 will close and a summary will be displayed. If the user enters the correct password a result ofeach voters name and how they voted will be displayed.
