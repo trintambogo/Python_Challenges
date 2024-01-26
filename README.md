@@ -1,4 +1,4 @@
-# Python_Code_Challenges
+# Python Challenges
 # DICTIONARIES
 ## Frequency Analysis Program
 The program will analyse the letter distribution of a given text. It will take any text, remove all non-alpha characters, count the frequency of each letter within the text, calculate the percentage of occurrence for each letter, and create a list of
